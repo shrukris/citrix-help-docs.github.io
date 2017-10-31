@@ -15,4 +15,3 @@ subnav_sort: alpha
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-citrix
