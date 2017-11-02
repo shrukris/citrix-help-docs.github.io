@@ -1,4 +1,8 @@
-# What is Citrix Receiver?
+---
+layout: leftnav
+title: What is Citrix Receiver?
+menu: subnav
+---
 
 Citrix Receiver provides access to virtual desktops and apps from any device, making it easy to work from anywhere. Receiver is secure, easy to use, and consistent across devices.
 
