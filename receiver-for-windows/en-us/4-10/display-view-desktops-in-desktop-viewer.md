@@ -1,6 +1,6 @@
 ---
 layout: leftnav
-title: Display your devices in the Desktop Viewer
+title: Display your devices in the desktop viewer
 menu: subnav
 ---
 
