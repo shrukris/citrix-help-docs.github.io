@@ -252,9 +252,7 @@ body {
     .left-wrapper {
         height:0;
         .left-nav {
-            -webkit-transform:translateX(105%);
-            -ms-transform:translateX(105%);
-            transform:translateX(105%);
+            display:none;
         }
     }
         
@@ -300,7 +298,7 @@ body {
                 font-size:1.2rem;
             }
             .ctx-global-menu.mobile {
-                display:block;
+                display:none;
                 background-color:gray;
                 height:auto;
                 padding:1rem 0;
